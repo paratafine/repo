@@ -1,0 +1,272 @@
+{
+  "name": "Parata's Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://paratafine.github.io/source/",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.spotify.client",
+    "com.google.ios.youtube",
+    "com.mojang.minecraftpe"
+  ],
+  "apps": [
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "Spotify Premium for free",
+      "localizedDescription": "SpotveeC",
+      "iconURL": "https://i.imgur.com/xAq4Nqc.png",
+      "tintColor": "#1cd464",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "3.3.16",
+          "date": "2025-05-29T19:26:00+02:00",
+          "localizedDescription": null,
+          "downloadURL": "https://files.catbox.moe/3kkzy0.ipa",
+          "size": 80000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "marketplaceID": "",
+      "developerName": "Nabzclan / Mojang",
+      "subtitle": "Minecraft Vanilla",
+      "localizedDescription": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs.",
+      "iconURL": "https://apps.nabzclan.vip/images/1689953960.webp",
+      "tintColor": "#018084",
+      "category": "games",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/16899539607674045094.webp",
+        "https://apps.nabzclan.vip/screenshots/16899539604734358438.webp",
+        "https://apps.nabzclan.vip/screenshots/16899539568593312877.webp"
+      ],
+      "versions": [
+        {
+          "version": "1.21.61",
+          "date": "2025-03-03",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://www.dropbox.com/scl/fi/gbx8506pfxz99pztcbxgi/Minecraft_1.21.61.ipa?rlkey=3zzlfqd7nly9ckxp01gle2ae9&st=askyfoam&dl=1",
+          "size": 0,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "com.utmapp.UTM",
+      "marketplaceID": "",
+      "developerName": "UTM Developers",
+      "subtitle": "(Dev Cert+JIT Required) Virtual machines on iOS.",
+      "localizedDescription": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad.",
+      "iconURL": "https://avatars.githubusercontent.com/u/49966544?s=200&v=4",
+      "tintColor": "#018084",
+      "category": "other",
+      "screenshots": [
+        "https://cydia.getutm.app/assets/com.utmapp.UTM/screenshot/screen0.png"
+      ],
+      "versions": [
+        {
+          "version": "4.6.4",
+          "date": "2020-03-24T14:00:00-07:00",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.6.4/UTM.ipa",
+          "size": 0,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "marketplaceID": "",
+      "developerName": "Riley Testut",
+      "subtitle": "Game emulator with console like DS, SNES, NES...",
+      "localizedDescription": "Delta is an all-in-one emulator for iOS. Delta builds upon the strengths of its predecessor, GBA4iOS, while expanding to include support for more game systems such as NES, SNES, and N64. FEATURES Supported Game Systems • Nintendo Entertainment System • Super Nintendo Entertainment System • Nintendo 64 • Game Boy (Color) • Game Boy Advance • Nintendo DS • And plenty more to come!\n\nDelta and AltStore LLC are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.**",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "tintColor": "#018084",
+      "category": "games",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
+        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
+        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
+      ],
+      "versions": [
+        {
+          "version": "1.6.3",
+          "date": "2025-02-03",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_6_3.ipa",
+          "size": 0,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "marketplaceID": "",
+      "developerName": "Cypwn IPA Library / Fouad Raheb ",
+      "subtitle": "ReGram Cracked",
+      "localizedDescription": "Boost your Instagram with many privacy, analytics, and customization features.",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+      "tintColor": "#018084",
+      "category": "social",
+      "screenshots": [
+        "https://regram.fouadraheb.com/assets/ss1-DuObw4FZ.png"
+      ],
+      "versions": [
+        {
+          "version": "351.0.1",
+          "date": "2025-03-02",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://files.catbox.moe/jvicaz.ipa",
+          "size": 0,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "marketplaceID": "",
+      "developerName": "dayanch96",
+      "subtitle": "YTMusicUltimate - No ads, free playback, downloads and more",
+      "localizedDescription": "YTMusicUltimate is a YouTube Music tweak that adds free playback, no ads, free downloads, UI customization and more.",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/1024px-Youtube_Music_icon.svg.png",
+      "tintColor": "#018084",
+      "category": "entertainment",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/38832025/235781424-06d81647-b3db-4d9b-94dc-cd65cdf09145.png?raw=true)",
+        "https://user-images.githubusercontent.com/38832025/235781207-6d1ad44e-0c32-4aec-9c75-cb928ca8a0d3.png?raw=true)"
+      ],
+      "versions": [
+        {
+          "version": "7.27",
+          "date": "2025-03-02",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://files.catbox.moe/f1jvkr.ipa",
+          "size": 0,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "marketplaceID": "",
+      "developerName": "dayanch96",
+      "subtitle": "YTLitePlus - No ads, free downloads and more",
+      "localizedDescription": "YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.",
+      "iconURL": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+      "tintColor": "#018084",
+      "category": "entertainment",
+      "screenshots": [
+        "https://ytliteplus.github.io/Screenshot-1.png",
+        "https://ytliteplus.github.io/Screenshot-2.png",
+        "https://ytliteplus.github.io/Screenshot-3.png"
+      ],
+      "versions": [
+        {
+          "version": "19.34.2",
+          "date": "2025-03-01",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
+          "size": 0,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "Updated Spotify",
+      "identifier": "news_g6d8uzev9v",
+      "caption": "Spotify has been updated to the latest version!",
+      "date": "2025-05-29T22:20",
+      "tintColor": "#1cd464",
+      "imageURL": "",
+      "notify": true,
+      "url": "",
+      "appID": "com.spotify.client"
+    },
+    {
+      "title": "Welcome to Parata's Source!",
+      "identifier": "news_mbw7p7it0i",
+      "caption": "Parata's Source has been updated and now supports the latest AltStore features!",
+      "date": "2025-04-30T18:08",
+      "tintColor": "#6156e2",
+      "imageURL": "",
+      "notify": true,
+      "url": "",
+      "appID": null
+    }
+  ]
+}
