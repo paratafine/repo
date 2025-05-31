@@ -1,0 +1,72 @@
+{
+  "name": "Parata's Source 2.0",
+  "subtitle": "Parata's Source remade from scratch",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.spotify.client"
+  ],
+  "apps": [
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": "Eevee",
+      "subtitle": "Spotify Premium for free",
+      "localizedDescription": "SpotveeC gives you Spotify premium for free",
+      "iconURL": "https://i.imgur.com/FuhjhhN.png",
+      "tintColor": "#1cd464",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://files.catbox.moe/3kkzy0.ipa",
+          "size": 80000000,
+          "version": "3.3.16",
+          "buildVersion": "3.3.16",
+          "date": "2025-05-30T17:15:00+02:00",
+          "localizedDescription": "Release",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "Welcome to the new source",
+      "identifier": "news_az46tg00jd",
+      "caption": "The source has been remade from scrath with a new tool!",
+      "date": "2025-05-30T19:16",
+      "tintColor": "#6156e2",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    }
+  ]
+}
