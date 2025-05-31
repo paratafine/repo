@@ -13,7 +13,6 @@
     {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
-      "marketplaceID": "",
       "developerName": "Eevee",
       "subtitle": "Spotify Premium for free",
       "localizedDescription": "SpotveeC gives you Spotify premium for free",
